@@ -2,15 +2,18 @@
 
 I'm Mark Aloo, a Front-end web developer and tech enthusiast! I love learning new technologies and building applications that transform the society. My main stack is Javascript (React) but im currently learning Back-End development too!
 
----
+Portfolio website [here]()
 
-<br />
+---
 
 ### Languages and Tools 🛠
 
 <br />
 
+<!-- ts -->
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
@@ -27,15 +30,67 @@ I'm Mark Aloo, a Front-end web developer and tech enthusiast! I love learning ne
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ffffff)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Npm](https://img.shields.io/badge/-yarn-2B8AB5?style=flat-square&logo=yarn&logoColor=ffffff)
+![Yarn](https://img.shields.io/badge/-yarn-2B8AB5?style=flat-square&logo=yarn&logoColor=ffffff)
 
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=ffffff)
+
 <br/>
 
 ---
+
+### Some of my Projects
+
+<br/>
+
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=thecodeinfluencer&repo=interest-hub&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
+
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=thecodeinfluencer&repo=react-native-covid-19&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
+
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=thecodeinfluencer&repo=nodejs-web-scrapper-online-shops-kenya&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
+
+<br/>
+
+---
+
+### Find Me
+
+<br/>
+
+![Website](https://img.shields.io/badge/-Website-008B8B?style=flat-square&logo=react&logoColor=ffffff)
+[thecodeinfluencer](https://thecodeinfluencer.netlify.com/)
+
+![Linked In](https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=ffffff)
+[thecodeinfluencer](https://www.linkedin.com/in/thecodeinfluencer/)
+
+![Medium](https://img.shields.io/badge/-Medium-00A267?style=flat-square&logo=medium&logoColor=ffffff)
+[codeinfluence](https://www.medium.com/codeinfluence/)
+
+![Twitter](https://img.shields.io/badge/-Twitter-007ACC?style=flat-square&logo=twitter&logoColor=ffffff)
+[thecodeinfluencer](https://www.twitter.com/thecodeinfluencer/)
+
+![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=ffffff)
+[thecodeinfluencer](https://github.com/thecodeinfluencer/)
+
+![GitLab](https://img.shields.io/badge/-Gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=ffffff)
+[thecodeinfluencer](https://www.gitlab.com/thecodeinfluencer/)
+
+![Gmail](https://img.shields.io/badge/-Gmail-FF4131?style=flat-square&logo=gmail&logoColor=ffffff)
+[mbenjerminne@gmail.com](mailto:mbenjerminne@gmail.com)
+
+<br/>
+
+<!-- I am a passionate front end developer with over 2 years of experience building responsive websites with a focus on React, Node, Mongo and Express. -->
+<!-- Github profile -->
+
+<!-- website projects -->
+<!-- portfolio website -->
+<!-- medium posts -->
+<!-- social media posts -->
+<!-- contacts : linked in & gmail -->
 
 <!--
 **thecodeinfluencer/thecodeinfluencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
