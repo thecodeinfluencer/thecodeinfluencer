@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/3227839841/1661520960/600x200" alt="Mark Aloo">
+<img src="https://github.com/thecodeinfluencer/thecodeinfluencer/blob/main/Github%20Cover.png" alt="Mark Aloo">
 
 
 ### Hi there 👋
