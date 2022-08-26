@@ -1,3 +1,6 @@
+<img src="https://pbs.twimg.com/profile_banners/3227839841/1661520960/600x200" alt="Mark Aloo">
+
+
 ### Hi there 👋
 
 I'm Mark Aloo, a Front-end web developer and tech enthusiast! I love learning new technologies and building applications that transform the society. My main stack is Javascript (React) but im currently learning Back-End development too!
