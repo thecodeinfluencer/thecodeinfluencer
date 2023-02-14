@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I'm Mark Aloo, a Front-end web developer and tech enthusiast! I love learning new technologies and building applications that transform the society. My main stack is Javascript (React) but im currently learning Back-End development too!
+Mark is a tech professional with a broad skillset in frontend development, software engineering, RPA, UI/UX, technical writing, speaking about tech, and a passion for continuous learning.
 
 Portfolio website [here]()
 
