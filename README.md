@@ -45,20 +45,6 @@ Portfolio website [here]()
 
 ---
 
-### Some of my Projects
-
-<br/>
-
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=thecodeinfluencer&repo=interest-hub&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=thecodeinfluencer&repo=react-native-covid-19&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=thecodeinfluencer&repo=nodejs-web-scrapper-online-shops-kenya&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-
-<br/>
-
----
-
 ### Find Me
 
 <br/>
