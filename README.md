@@ -1,4 +1,4 @@
-<img style="border-radius:16px" src="https://github.com/thecodeinfluencer/thecodeinfluencer/blob/main/Github%20Cover.png" alt="Mark Aloo">
+<img style="border-radius:16px" src="https://github.com/thecodeinfluencer/thecodeinfluencer/blob/main/Github%20Cover2.png" alt="Mark Aloo">
 
 
 ### Hi there 👋
