@@ -5,7 +5,7 @@
 
 Mark is a tech professional with a broad skillset in frontend development, software engineering, RPA, UI/UX, technical writing, speaking about tech, and a passion for continuous learning.
 
-Portfolio website [here]()
+Portfolio website [here](https://thecodeinfluencer.dev/)
 
 ---
 
@@ -50,7 +50,7 @@ Portfolio website [here]()
 <br/>
 
 ![Website](https://img.shields.io/badge/-Website-008B8B?style=flat-square&logo=react&logoColor=ffffff)
-[thecodeinfluencer](https://thecodeinfluencer.netlify.com/)
+[thecodeinfluencer](https://thecodeinfluencer.dev/)
 
 ![Linked In](https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=ffffff)
 [thecodeinfluencer](https://www.linkedin.com/in/thecodeinfluencer/)
